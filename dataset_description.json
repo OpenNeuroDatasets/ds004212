@@ -6,12 +6,14 @@
         "Martin N. Hebart",
         "Oliver Contier",
         "Lina Teichmann",
-        "Adam H. Dickter",
         "Charles Zheng",
         "Alexis Kidder",
         "Anna Corriveau",
         "Maryam Vaziri Pashkam",
-        "Chris I. Baker"
+        "Chris I. Baker",
+        "Adam H. Rockter"
     ],
-    "EthicsApprovals": ["NIH Institutional Review Board as part of the study protocol 93-M-0170 (NCT00001360)"]
+    "EthicsApprovals": [
+        "NIH Institutional Review Board as part of the study protocol 93-M-0170 (NCT00001360)"
+    ]
 }
