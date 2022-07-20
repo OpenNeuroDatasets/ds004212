@@ -15,5 +15,6 @@
     ],
     "EthicsApprovals": [
         "NIH Institutional Review Board as part of the study protocol 93-M-0170 (NCT00001360)"
-    ]
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds004212.v1.0.1"
 }
