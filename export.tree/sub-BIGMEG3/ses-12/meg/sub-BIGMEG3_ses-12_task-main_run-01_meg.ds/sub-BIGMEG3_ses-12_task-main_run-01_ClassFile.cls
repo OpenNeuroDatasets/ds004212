@@ -1,0 +1,1 @@
+../../../../.git/annex/objects/59/FP/SHA256E-s268--771190de84d73bebfe4288f27f1c2f6373a2254400563fbd91d009ca44bce9eb.cls/SHA256E-s268--771190de84d73bebfe4288f27f1c2f6373a2254400563fbd91d009ca44bce9eb.cls
