@@ -1,0 +1,1 @@
+../../../../.git/annex/objects/mW/K2/SHA256E-s268--655128fa05d842558128e0d3fdf7d9afa3f90d57e0f7baaafbf7c45f4410a0bb.cls/SHA256E-s268--655128fa05d842558128e0d3fdf7d9afa3f90d57e0f7baaafbf7c45f4410a0bb.cls

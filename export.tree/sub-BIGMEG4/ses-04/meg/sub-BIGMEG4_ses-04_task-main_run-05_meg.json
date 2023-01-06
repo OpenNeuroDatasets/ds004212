@@ -1,0 +1,20 @@
+{
+    "TaskName": "main",
+    "Manufacturer": "CTF",
+    "PowerLineFrequency": 60,
+    "SamplingFrequency": 1200.0,
+    "SoftwareFilters": "n/a",
+    "RecordingDuration": 347.99916666666667,
+    "RecordingType": "continuous",
+    "DewarPosition": "n/a",
+    "DigitizedLandmarks": false,
+    "DigitizedHeadPoints": false,
+    "MEGChannelCount": 272,
+    "MEGREFChannelCount": 28,
+    "EEGChannelCount": 0,
+    "EOGChannelCount": 0,
+    "ECGChannelCount": 0,
+    "EMGChannelCount": 0,
+    "MiscChannelCount": 10,
+    "TriggerChannelCount": 0
+}
