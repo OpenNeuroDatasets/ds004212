@@ -1,0 +1,1 @@
+../../../../.git/annex/objects/FG/G6/SHA256E-s268--70de8fa5596550c52ad112fe3caaab40778cdff82721dfd7f20b150997ce6727.cls/SHA256E-s268--70de8fa5596550c52ad112fe3caaab40778cdff82721dfd7f20b150997ce6727.cls
