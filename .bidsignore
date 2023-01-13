@@ -3,4 +3,5 @@
 *bad.segments.bak
 *_meg.eeg
 *emptyroom*
+*/sub-emptyroom*
 sub-emptyroom_ses-*_run-*.eeg
