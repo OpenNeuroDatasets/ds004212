@@ -1,0 +1,27 @@
+{
+  "onset": {
+    "LongName": "Event onset",
+    "Description": "Onset in seconds measured with optical sensor attached to projector",
+    "Units": "second"
+  },
+  "duration": {
+    "LongName": "Event duration",
+    "Description": "Duration of the event (measured from onset) in seconds",
+    "Units": "second"
+  },
+  "trial_type": {
+    "LongName": "Event categorization",
+    "Description": "Primary categorisation of each trial to identify them as instances of the experimental conditions (exp), catch condition (catch), or repeat condition (test)"
+  },
+  "things_category_nr": {
+    "LongName": "THINGS category number",
+    "Description": "Secondary categorisation of each trial to identify them as instances of the THINGS categories"
+  },
+  "value": {
+    "LongName": "THINGS image number",
+    "Description": "Tertiary categorisation of each trial to identify them in the context of THINGS image numbers"
+  },
+  "sample": {
+    "LongName": "Event onset in samples",
+    "Description": "Onset (in samples, 1200 Hz) of the event measured with optical sensor attached to projector"}
+}
