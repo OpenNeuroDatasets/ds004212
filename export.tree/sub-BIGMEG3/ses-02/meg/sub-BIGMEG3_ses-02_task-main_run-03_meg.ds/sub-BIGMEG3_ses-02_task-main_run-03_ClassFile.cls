@@ -1,0 +1,1 @@
+../../../../.git/annex/objects/JP/k4/SHA256E-s268--42d122bb5f80ed4ff2cde441855f2a24c547f5fd7ea8078ecc130e8d67b1dce4.cls/SHA256E-s268--42d122bb5f80ed4ff2cde441855f2a24c547f5fd7ea8078ecc130e8d67b1dce4.cls
