@@ -16,7 +16,7 @@
     "HowToAcknowledge": "Please cite this paper: https://doi.org/10.7554/eLife.82580",
     "EthicsApprovals": [
         "NIH Institutional Review Board as part of the study protocol 93-M-0170 (NCT00001360)"
-    ],    
+    ],
     "ReferencesAndLinks": [
         "fMRI & MEG Paper: Hebart, M. N., Contier, O., Teichmann, L., Rockter, A. H., Zheng, C. Y., Kidder, A., ... & Baker, C. I. (2023). THINGS-data, a multimodal collection of large-scale datasets for investigating object representations in human brain and behavior. Elife, 12, e82580.",
         "Code: https://github.com/ViCCo-Group/THINGS-data",
@@ -26,5 +26,5 @@
         "THINGS-fMRI dataset: doi:10.18112/openneuro.ds004192.v1.0.7",
         "THINGS-EEG1 dataset: doi:10.18112/openneuro.ds003825.v1.2.0"
     ],
-    "DatasetDOI": ""
+    "DatasetDOI": "doi:10.18112/openneuro.ds004212.v2.0.1"
 }
