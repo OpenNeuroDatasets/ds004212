@@ -1,0 +1,1 @@
+../../.git/annex/objects/wF/xK/SHA256E-s4096--79e49758b890b63fff8f670b7dee871ffc31cc77c5c5d52340d4b640588941a4._predictions_66d_elastic_clip-ViT-B-32_visual_THINGS.txt/SHA256E-s4096--79e49758b890b63fff8f670b7dee871ffc31cc77c5c5d52340d4b640588941a4._predictions_66d_elastic_clip-ViT-B-32_visual_THINGS.txt
