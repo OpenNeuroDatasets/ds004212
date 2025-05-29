@@ -1,0 +1,16 @@
+3.0.0 2025-05-29
+  - contains condensed triplet-data results used to run regression in standalone-MEG-paper
+  - contains all analysis output to generate figures in standalone-MEG-paper
+  - contains example stimulus images to recreate figures of standalone-MEG-paper
+2.0.1 2024-09-09
+  - update dataset_description.json
+2.0.0 2023-01-14
+  - events based on optical sensor & updated derivatives
+1.0.3 2023-01-06
+  - - updated event files & derivatives
+1.0.2 2022-07-25
+  - Changed author last name
+1.0.1 2022-07-20
+  - Changed author last name
+1.0.0 2022-07-15
+  - Initial upload
