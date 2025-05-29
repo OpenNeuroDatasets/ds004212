@@ -1,1 +1,0 @@
-../../../../.git/annex/objects/0k/Xf/SHA256E-s4096--44194aa2f427f627c04ccdce13b27c3949e567b6393527736e64c5d236b5bf8c._sub-emptyroom_ses-20190517_run-01_DigTrigChannelInfo.txt/SHA256E-s4096--44194aa2f427f627c04ccdce13b27c3949e567b6393527736e64c5d236b5bf8c._sub-emptyroom_ses-20190517_run-01_DigTrigChannelInfo.txt
