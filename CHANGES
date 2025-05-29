@@ -1,3 +1,7 @@
+3.0.0 2025-05-29
+  - contains condensed triplet-data results used to run regression in standalone-MEG-paper
+  - contains all analysis output to generate figures in standalone-MEG-paper
+  - contains example stimulus images to recreate figures of standalone-MEG-paper
 2.0.1 2024-09-09
   - update dataset_description.json
 2.0.0 2023-01-14
