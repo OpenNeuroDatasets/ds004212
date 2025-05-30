@@ -1,0 +1,5 @@
+1748558588s ec591376-3c84-404c-adf4-590951a39fdb:V +c69GHj7KpzeZUveKDySlSyC39LAMebHK#ds004212/derivatives/meg_paper/output/regression/P3_ols-reg_within_predict-dims_ytrue_cv6.npy
+1748562279s ec591376-3c84-404c-adf4-590951a39fdb:V +KmP8QE2RYfQqolXLn7qn5tajxbxv37Fx#ds004212/derivatives/meg_paper/output/regression/P3_ridge-reg_within_predict-dims_ytrue_cv6.npy
+1748566995s ec591376-3c84-404c-adf4-590951a39fdb:V +sPeZNbYqk4zmsgDZgjHK5dvzaYenj7Sl#ds004212/derivatives/meg_paper/output/regression/Ridge-reg_cross_ytrue_trainP1_testP3_cv6.npy
+1748567006s ec591376-3c84-404c-adf4-590951a39fdb:V +E0WnbdQz5_N6hpZFVWmZxg4_U49Pao_Q#ds004212/derivatives/meg_paper/output/regression/Ridge-reg_cross_ytrue_trainP2_testP3_cv6.npy
+1748567031s ec591376-3c84-404c-adf4-590951a39fdb:V +h3CeqHkJgugWIYUPbWSxhUFhssg1g1z3#ds004212/derivatives/meg_paper/output/regression/Ridge-reg_cross_ytrue_trainP4_testP3_cv6.npy
